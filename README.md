@@ -1,5 +1,5 @@
 # Hamoni-js-client
-JS client for Hamoni Chat API - https://www.producthunt.com/upcoming/hamoni
+JS client for Hamoni Chat API - https://www.producthunt.com/upcoming/hamoni. Here's a [sample web app](https://github.com/pmbanugo/Hamoni-Example) utilising Hamoni.
 
 # How to use Hamoni JS client
 Included in this repository is the Hamoni JS client located in `lib/hamoni.min.js`. The client allows your app to connect to the Hamoni server. To use it, copy and include this script in your web app. Once included, you will have access to a global `Hamoni` variable which you will initialise. To initiliase a new object, you'll need an applicationId and the identity of the user using the client. 

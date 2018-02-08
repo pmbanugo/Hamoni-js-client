@@ -4,6 +4,8 @@ JS client for Hamoni Chat API - https://www.producthunt.com/upcoming/hamoni.
 Here's a [sample web app](https://github.com/pmbanugo/Hamoni-Example) utilising
 Hamoni.
 
+It's not ready for production use yet. Feel free to open an issue while experiment with this beta version, and also subscribe to get more details before launch.
+
 # How to use Hamoni JS client
 
 Included in this repository is the Hamoni JS client located in
